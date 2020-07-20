@@ -2,16 +2,4 @@
 
 Hello World!
 
-This is more text.
-
-# Heading 2
-
-Goodbye World!
-
-# Heading 3
-
-See you later.
-
-# Heading 4
-
-Continue!
+This is going to cause a lot of trouble.
